@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+[![](https://visitcount.itsvg.in/api?id=ashiqee&icon=0&color=7)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently engaged in my learning projects.<br>👯"I want to collaborate with talented individuals on innovative projects.<br>🌱 I’m currently learning NextJs<br>💬 Ask me about MERN, React Js<br>📄 visit my portfolio: 
 
@@ -37,7 +39,6 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashiqee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ashiqee&icon=0&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
