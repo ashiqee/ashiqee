@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## 🌐 Connect With Me:
 
 <div style="width: 100%; text-align: center;"> 
-<p >
+<p align="center">
 <a href="https://linkedin.com/in/ashiqee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiqee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23039097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23039097" height="30" width="40" /></a>
 <a href="https://fb.com/ashik.mahamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashik.mahamud" height="30" width="40" /></a>
@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 ## 💻Languages and Tools:
 
 <div style="width: 100%; text-align: center; margin: auto;">
-  <p style="width: 100%; text-align: center; margin: auto;">
+  <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
