@@ -1,6 +1,6 @@
 <div >
 <a>
-<img src="https://raw.githubusercontent.com/ashiqee/ashiqee/main/Banner%20Ashiq.jpg"/>
+<img src="https://raw.githubusercontent.com/ashiqee/ashiqee/main/assets/images/Banner%20Ashiq.jpg"/>
 </a></div>
 
 # Hi there 👋 I 'm Ashik Mahmud
