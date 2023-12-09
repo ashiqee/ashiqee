@@ -26,9 +26,14 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-🔭 As a MERN Stack Developer, my journey is fueled by a relentless ambition to learn and grow.My passion for staying at the for front of technology propels me to continuously expand my skill set. I am not just a developer; I am a perpetual learner, embracing challenges and transforming them into opportunities for innovation. Let's build the future together through code and creativity."<br>
-👯"I want to collaborate with talented individuals on innovative projects.<br>🌱 I’m currently learning NextJs, Mongoose, MUI<br>💬 Ask me about MERN, React Js<br>📄 visit my portfolio: https://ashik-mahmud.web.app
+🔭 As a MERN Stack Developer, my journey is fueled by a relentless ambition to learn and grow.My passion for staying at the for front of technology propels me to continuously expand my skill set. I am not just a developer; I am a perpetual learner, embracing challenges and transforming them into opportunities for innovation. Let's build the future together through code and creativity."
 
+<br>
+👯"I want to collaborate with talented individuals on innovative projects.<br>🌱 I’m currently learning NextJs, Mongoose, MUI<br>💬 Ask me about MERN, React Js
+<br>
+
+📄 visit my portfolio: https://ashik-mahmud.web.app
+<br>
 📫Reach me at: aashekmahmud@gmail.com
 
 ## 🌐 Connect With Me:
