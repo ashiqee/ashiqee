@@ -1,6 +1,6 @@
 <div >
 <a>
-<img src="https://raw.githubusercontent.com/ashiqee/ashiqee/main/assets/images/Banner%20Ashiq.jpg"/>
+<img src="https://i.postimg.cc/NjRyY3x3/Blue-Teal-Modern-Personal-Linked-In-Banner.png"/>
 </a></div>
 
 # Hi there 👋 I 'm Ashik Mahmud
