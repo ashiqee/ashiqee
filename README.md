@@ -18,7 +18,7 @@
 
 🌱 **Currently Learning**: python
 
-💬 **Ask Me About**: MERN, NextJs, React.js, PostgresSQL.
+💬 **Ask Me About**: MERN, NextJs, React.js, PostgreSQL.
 
 📄 **Portfolio**: [Visit my portfolio](https://ashik-mahmud.web.app)
 
@@ -28,29 +28,22 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/ashiqee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://stackoverflow.com/users/23039097" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/></a>
-  <a href="https://fb.com/ashik.mahamud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
-  <a href="https://discord.gg/tfc3dkJW" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
+<div align="left">
+  <a href="https://linkedin.com/in/ashiqee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/></a>
+  <a href="https://stackoverflow.com/users/23039097" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="50"/></a>
+  <a href="https://fb.com/ashik.mahamud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50"/></a>
+  <a href="https://discord.gg/tfc3dkJW" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50"/></a>
+    <a href="https://x.com/Xashiqee" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="X" height="50" width="50" color="white"/></a>
 </div>
 
 ---
 
 ## 💻 Languages and Tools
-
 <div align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" />&nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"  /> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="ReduxToolkit" width="50" height="50" />&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
+
+
 </div>
 
 ---
@@ -59,11 +52,27 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqee&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <br/><br/>
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=ashiqee&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </div>
 
----
+
+## 🖥 &nbsp;Past work
+
+<div align="center">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 60px;">
+  <a href="https://github.com/ashiqee/e-frontend-assignment-09" style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqee&repo=e-frontend-assignment-09&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="e-frontend-assignment-09" style="width: 48%;"/>
+  </a>
+  <a href="https://github.com/ashiqee/Trekz_frontend" style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqee&repo=Trekz_frontend&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Trekz_frontend" style="width: 48%;"/>
+  </a>
+</div>
+  
+</div>
+
+
+
 
 ## 🏆 GitHub Trophies
 
@@ -71,10 +80,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ashiqee&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
----
+
 
 ## 🔝 Top Contributed Repos
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ashiqee&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=ashiqee&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" style="width: 100%; max-width: 600px;"/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ashiqee">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqee&layout=compact&langs_count=8" alt="Top Languages" style="width: 100%; max-width: 600px;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
