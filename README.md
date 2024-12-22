@@ -51,10 +51,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqee&theme=radical&hide_border=false" alt="GitHub Streak"/>
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiqee&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqee&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 600px;"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ashiqee&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%; max-width: 600px;"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ## 🖥 &nbsp;Past work
@@ -87,11 +95,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=ashiqee&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" style="width: 100%; max-width: 600px;"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=ashiqee&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributions" style="width: 100%; max-width: 600px;"/>
     </td>
     <td align="center">
       <a href="https://github.com/ashiqee">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqee&layout=compact&langs_count=8" alt="Top Languages" style="width: 100%; max-width: 600px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqee&layout=compact&langs_count=8&theme=dark" alt="Top Languages" style="width: 100%; max-width: 600px;"/>
       </a>
     </td>
   </tr>
