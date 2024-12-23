@@ -33,16 +33,14 @@ Unlocking new possibilities with Python, enhancing my toolkit for data-driven an
 📫 Reach Out Anytime
 Got a project, idea, or just want to talk tech? Drop me a line at: [aashekmahmud@gmail.com](mailto:aashekmahmud@gmail.com)
 
----
 
-### 🌐 Connect With Me
-
+##### 🌐 Connect with me
 <div align="left">
-  <a href="https://linkedin.com/in/ashiqee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/></a>
-  <a href="https://stackoverflow.com/users/23039097" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30"/></a>
-  <a href="https://fb.com/ashik.mahamud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30"/></a>
-  <a href="https://discord.gg/tfc3dkJW" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="30"/></a>
-    <a href="https://x.com/Xashiqee" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="X" height="30" width="30" color="white"/></a>
+  <a href="https://linkedin.com/in/ashiqee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20"/></a>
+  <a href="https://stackoverflow.com/users/23039097" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="20" width="20"/></a>
+  <a href="https://fb.com/ashik.mahamud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="20" width="20"/></a>
+  <a href="https://discord.gg/tfc3dkJW" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="20" width="20"/></a>
+    <a href="https://x.com/Xashiqee" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="X" height="20" width="20" color="white"/></a>
 </div>
 
 ---
