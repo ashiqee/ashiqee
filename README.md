@@ -1,4 +1,4 @@
-<div align="center" style="max-height: 600px; width:100%; overflow: hidden;">
+<div align="center" style="max-height: 300px; width:100%; overflow: hidden;">
   <a href="#">
     <img src="assets/images/FUll stack Developer.gif" alt="Banner" style="height: 100%; width: 100%; object-fit: cover;" />
   </a>
