@@ -18,9 +18,8 @@ I’m a tech enthusiast on an endless quest to learn, innovate, and build. Fuele
 👯 Collaboration
 Great things happen when great minds come together! I’m eager to connect with like-minded individuals and collaborate on projects that challenge the norm and inspire innovation.
 
-🌱 **Currently Learning**: python
 
-🌱 Currently Exploring
+🌱 **Currently Exploring**
 Unlocking new possibilities with Python, enhancing my toolkit for data-driven and AI-powered solutions.
 
 💬 Let’s Talk About
@@ -39,11 +38,11 @@ Got a project, idea, or just want to talk tech? Drop me a line at: [aashekmahmud
 ### 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/ashiqee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/></a>
-  <a href="https://stackoverflow.com/users/23039097" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="50"/></a>
-  <a href="https://fb.com/ashik.mahamud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50"/></a>
-  <a href="https://discord.gg/tfc3dkJW" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50"/></a>
-    <a href="https://x.com/Xashiqee" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="X" height="50" width="50" color="white"/></a>
+  <a href="https://linkedin.com/in/ashiqee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/></a>
+  <a href="https://stackoverflow.com/users/23039097" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30"/></a>
+  <a href="https://fb.com/ashik.mahamud" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30"/></a>
+  <a href="https://discord.gg/tfc3dkJW" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="30"/></a>
+    <a href="https://x.com/Xashiqee" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="X" height="30" width="30" color="white"/></a>
 </div>
 
 ---
