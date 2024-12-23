@@ -1,9 +1,10 @@
-<div align="center">
+<div align="center" style="max-height: 600px; width:100%; overflow: hidden;">
   <a href="#">
-    <img src="https://i.postimg.cc/NjRyY3x3/Blue-Teal-Modern-Personal-Linked-In-Banner.png" alt="Banner"/>
+    <img src="assets/images/FUll stack Developer.gif" alt="Banner" style="height: 100%; width: 100%; object-fit: cover;" />
   </a>
 </div>
 
+ <!-- <img src="https://i.postimg.cc/NjRyY3x3/Blue-Teal-Modern-Personal-Linked-In-Banner.png" alt="Banner"/> -->
 # Hi there! 👋 I'm **Ashek Mahmud Ashik**
 
 ---
